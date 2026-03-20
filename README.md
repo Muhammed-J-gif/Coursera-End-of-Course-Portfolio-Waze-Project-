@@ -1,5 +1,4 @@
 # Waze User Churn Prediction — Course 1 Portfolio Project  
-*Google Advanced Data Analytics Certificate*
 
 ## Project Overview  
 This repository contains my Course 1 portfolio project for the Google Advanced Data Analytics Certificate. The project simulates an analytics workflow at Waze, where the objective is to begin developing a machine learning solution to predict monthly user churn.
