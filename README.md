@@ -83,4 +83,4 @@ The project includes collaboration with fictional Waze team members across data,
 ---
 
 ## Summary  
-This project establishes the analytical foundation required to build a churn prediction model. By validating the dataset, identifying key variables, and preparing for EDA, this work sets
+This project establishes the analytical foundation required to build a churn prediction model. By validating the dataset, identifying key variables, and preparing for EDA.
